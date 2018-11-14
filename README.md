@@ -2,15 +2,7 @@ How to work better with Stephen.
 
 Hi nice to see you reading this. The tl;dr of me is: I am all about culture, bringing the customer's voice into our Product discussions and maximising our team happiness.
 
-**My Ideal Week in Product**
 
-Planning meeting
-
-Our 1:1
-
-Celebration
-
-In-between: constant chatting
 
 **My Basic Preferences**
 
@@ -51,6 +43,16 @@ At **OLX** there is a formal feedback cycle which occurs twice a year. We delibe
 In our formal face-to-face meeting, we’ll discuss and agree on your plan and key objectives for the next period, and I’ll ask for feedback on my performance.
 
 Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
+
+**My Ideal Week in Product**
+
+Planning meeting
+
+Our 1:1
+
+Celebration
+
+In-between: constant brainstorming Asynchronously via Slack, Email etc.
 
 **More About Meetings**
 
