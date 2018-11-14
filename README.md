@@ -14,7 +14,7 @@ In-between: constant chatting
 
 **My Basic Preferences**
 
-You can Slack me anytime, I like responding quickly.
+You can Slack or Mail me anytime, I like responding, and almost always do. You'll see in this `README` a theme: I love working asynchronously, and enjoy reading my team's work/thoughts a lot.
 
 If I am traveling, I will give my team notice of said travel in advance. We have a shared team calendar: use it to note your leave and travels too. I will reciprocate. I prefer not to have our standard schedule whilst travelling, but happy to make exceptions.
 
