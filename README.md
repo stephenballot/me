@@ -14,13 +14,11 @@ In-between: constant chatting
 
 **My Basic Preferences**
 
-You can Slack me 24 hours a day. I like responding quickly. I don't expect you to be the same.
+You can Slack me anytime, I like responding quickly.
 
 If I am traveling, I will give my team notice of said travel in advance. We have a shared team calendar: use it to note your leave and travels too. I will reciprocate. I prefer not to have our standard schedule whilst travelling, but happy to make exceptions.
 
-I work a bit on the weekends. This is my choice. I do not expect that my team will work on the weekend. I might Slack or email them things, but I won't expect immediate responses at all.
-
-I take vacations. I really expect my team to do this too. Furthermore: holidays are meant to relax, so disable ALL notifications please.
+I take vacations. I really expect my team to do this too. Furthermore: holidays are meant to relax, so disable ALL notifications please. I value work/life balance.
 
 **Heavier stuff**
 
