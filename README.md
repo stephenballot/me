@@ -24,7 +24,7 @@ I take vacations. I really expect my team to do this too. Furthermore: holidays 
 
 **Heavier stuff**
 
-I believe in what Tony Hsieh calls "Collisions". "Collisions" are unscientific and hard-to-prove, and they are not violent, but rather gentle, like particles under a microscope that are moving and suddenly meeting at a point in the space time continuum. You could call them "serendipitous meetings". I see my main job in *OLX* to be the person that makes sure our company has as many "collisions" as possible.
+I believe in what Tony Hsieh (of Zappos fame) calls "Collisions". "Collisions" are unscientific and hard-to-prove, and they are not violent, but rather gentle, like particles under a microscope that are moving and suddenly meeting at a point in the space time continuum. You could call them "serendipitous meetings". I see my main job in *OLX* to be the person that makes sure our company has as many "collisions" as possible.
 
 I believe in a Humans first approach. 
 
