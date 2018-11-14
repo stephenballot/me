@@ -1,8 +1,16 @@
-**How to work better with Stephen**
+How to work better with Stephen.
 
 Hi nice to see you reading this. The tl;dr of me is: I am all about culture, bringing the customer's voice into our Product discussions and maximising our team happiness.
 
+**My Ideal Week in Product**
 
+Planning meeting
+
+Our 1:1
+
+Celebration
+
+In-between: constant chatting
 
 **My Basic Preferences**
 
@@ -18,9 +26,9 @@ I take vacations. You should too. Furthermore: holidays are meant to relax, so d
 
 I believe 100% in what Tony Hsieh calls "collisions". Collisions are unscientific, hard-to-prove, but basically boil down to "serendipitous meetings". I see my main job in *OLX* to be the person that makes sure our company has as many "collisions" as possible.
 
-Humans first. I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
+Humans first. I believe that happy, informed, and productive humans build fantastic Product. I optimise for the humans. Other leaders will maximise the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
 
-Leadership comes from everywhere... but I also believe that a big part of our culture relies on the way I behave.
+This Humans-first approach means I need a way for my relatively balanced introvert-extrovert personality to connect well with others. I also expect my team to be willing to connect to others. The basis of human connections, of trusting each other is by allowing ourselves to be vulnerable. Not vulnerable for the sake of vulnerability, but vulnerability within CLEAR boundaries. What do I mean by this, let's take this post for example, I am sharing 100% the things I think are important at work with you, and being super open, using my language, and sometimes "edgy" language -- but it is totally revealing of how I truly am, and hence vulnerable within these boundaries.
 
 I see things as systems. I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
 
@@ -31,6 +39,8 @@ I heavily bias towards action. Long meetings where we are endlessly debating pot
 I believe in the compounding awesomeness of continually fixing small things. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
 I start with an assumption of positive intent for all involved. This has worked out well for me over my career.
+
+People who treat others unfairly are a trigger for me. Unfairness in general drives me nuts.
 
 I need you to know that sometimes we are in HIGH ALERT and things will get strange. There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we’ll be done. If I am constantly in this state, something is fundamentally wrong.
 
@@ -44,18 +54,6 @@ In our formal face-to-face meeting, we’ll discuss and agree on your plan and k
 
 Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
-**My Ideal Week in Product**
-
-Planning meeting
-
-Our 1:1
-
-Celebration
-
-In-between: constant brainstorming Asynchronously via Slack, Email etc.
-
-I created a separate document called `PRODUCT.md` that contains my deeper thoughts on Product Management and how I see my role as Product Manager, together with my Product Management Philosophy.
-
 **More About Meetings**
 
 My calendar is open and public. Often it will contain big blocks of time -- I might look busy, but in actual fact I am just preventing unnecessary meetings.
@@ -64,7 +62,7 @@ If we HAVE to do a meeting, I really prefer if people share a pre-read
 
 I expect you to minimise meetings too.
 
-**Some More Thoughts**
+**Some Final Thoughts**
 
 Gosh I hate meetings, I would really prefer not to have any. The only meetings I love are (in order of importance): our weekly 1:1, Monday planning, Friday celebration. Everything else needs a clear goal decision associated with it and definable value.
 
@@ -80,13 +78,16 @@ I love to start new things but I often lose interest when I can mentally see how
 
 I struggle to focus on work if something at home is not going well.
 
-People who treat others unfairly are a trigger for me. Unfairness in general drives me nuts.
+I believe the way I behave influences the Culture of our company. I take this seriously. I hope you will too... not only in how you behave, but also by challenging me if you feel I am not living up to the expectations we agreed upon.
+
 
 **Some thoughts on OLX**
 
-It is going to take at least Quarter to figure out **OLX**. DON'T be demotivated by the size and complexity: people are generally very friendly.
+It is going to take a Quarter to figure out **OLX**
 
-A huge part of being successful at this company is being curious... figure out who does similar things / topics than you and befriend them. Use slack, email, workplace, social engineering, whatever it takes
+A huge part of being successful at this company is being curious... figure out who does similar things / topics than you and befriend them.
+
+Furthermore, I really believe this company rewards Entrepreneurial thinking. If you have an idea, and truly believe in it: find likeminded individuals, convince your manager, convince a colleague in another office, but be relentless in pursuing something if you truly believe in it.
 
 ----
 
