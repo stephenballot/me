@@ -16,23 +16,23 @@ In-between: constant chatting
 
 You can Slack me 24 hours a day. I like responding quickly. I don't expect you to be the same.
 
-If I am traveling, I will give you notice of said travel in advance. We have a shared team calendar: use it to note your leave and travels too. I will reciprocate. I prefer not to have our standard meeting schedule whilst travelling, but happy to make exceptions.
+If I am traveling, I will give my team notice of said travel in advance. We have a shared team calendar: use it to note your leave and travels too. I will reciprocate. I prefer not to have our standard schedule whilst travelling, but happy to make exceptions.
 
-I work a bit on the weekends. This is my choice. I do not expect that you are going to work on the weekend. I might Slack or email you things, but I won't expect immediate responses.
+I work a bit on the weekends. This is my choice. I do not expect that my team will work on the weekend. I might Slack or email them things, but I won't expect immediate responses at all.
 
-I take vacations. You should too. Furthermore: holidays are meant to relax, so disable ALL notifications please.
+I take vacations. I really expect my team to do this too. Furthermore: holidays are meant to relax, so disable ALL notifications please.
 
 **Heavier stuff**
 
-I believe 100% in what Tony Hsieh calls "collisions". "Collisions" are unscientific and hard-to-prove, but boil down to "serendipitous meetings". I see my main job in *OLX* to be the person that makes sure our company has as many "collisions" as possible.
+I believe in what Tony Hsieh calls "Collisions". "Collisions" are unscientific and hard-to-prove, and they are not violent, but rather gentle, like particles under a microscope that are moving and suddenly meeting at a point in the space time continuum. You could call them "serendipitous meetings". I see my main job in *OLX* to be the person that makes sure our company has as many "collisions" as possible.
 
 I believe in a Humans first approach. 
 
-I believe that happy, informed, and productive Humans build fantastic Product. Other leaders will maximise the business, the technology, or any other number of important facets. Ideological diversity is key to an effective and innovative team. All perspectives are relevant, and we need all these leaders, but my bias is towards making a team of productive Humans.
+I believe that happy, informed, and productive Humans build fantastic Product. Other leaders will maximise revenue, maximise our use of the technology, or any other number of important facets. However, I believe ideological diversity is key to an effective and innovative organisation. Most perspectives are relevant, and we need a large variety of leaders, but my bias is towards making a team of productive Humans.
 
-This Humans-first approach means I need a way for my relatively balanced introvert-extrovert personality to connect well with others. I also expect my team to be willing to connect to others. The basis of human connections, of trusting each other is by allowing ourselves to be vulnerable. Not vulnerable for the sake of vulnerability, but vulnerability within CLEAR boundaries. What do I mean by this: let's take this `README` for example, I am sharing all the things I think are important to work with me, being super open, using my language, and sometimes "edgy" language -- but it totally reveals how I truly am, and hence I am being vulnerable within these boundaries of "working with me". If you join my team, I'll make you watch Brene Browne's TED talks -- her message on vulnerability being the birthplace of innovation resonates with me. 
+This Humans-first approach means I need a way for my relatively balanced introvert-extrovert personality to connect well with others. I also expect my team to be willing to connect to others. The basis of human connections, of trusting each other is by allowing ourselves to be vulnerable. Not vulnerable for the sake of vulnerability, but vulnerability within CLEAR boundaries. What do I mean by this: let's take this `README` for example, I am sharing all the things I think are important to work with me, being super open, using my language, and sometimes "edgy" language -- but it totally reveals how I truly am, and hence I am being vulnerable within these boundaries of "working with me". If you join my team, I'll make you watch Brene Browne's TED talks -- her message on "vulnerability being the birthplace of innovation" resonates with me. 
 
-It is important to me that humans are treated fairly. I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
+It is important to me that humans are treated fairly. I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my own unconscious biases because I understand their ability to create inequity/unfairness.
 
 I start with an assumption of positive intent for all involved. This has worked out well for me over my career.
 
@@ -44,25 +44,27 @@ We can't do our jobs properly without really direct feedback.
 
 At **OLX** there is a formal feedback cycle which occurs twice a year. We deliberately decoupled our OKRs from our personal goals. This means we'll evaluate only personal growth in our bi-annual performance chat.
 
-In our formal face-to-face performance meeting, we’ll discuss and agree on your plan and key objectives for the next period, and I’ll also ask for feedback on my performance.
+In our bi-annual, face-to-face, performance meeting, we’ll discuss and agree on your plan and key objectives for the next period, and I’ll also ask for feedback on my performance.
 
-Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement. 
+Disagreement is feedback, and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more (vulnerability within boundaries remember ;)). Ideas don’t get better with agreeing all the time. 
 
-The best part: if we continuously talk about not only the content but also our way of working, the feedback becomes part of our daily work-life.
+The best part: if we continuously talk about not only the content but also our way of working, good quality feedback becomes part of our daily work-life.
 
 **About Meetings**
 
 My calendar is open and public. Often it will contain big blocks of time -- I might look busy, but in actual fact I am just preventing unnecessary meetings.
 
-If we HAVE to do a meeting, I really prefer if people share a pre-read.
+If we HAVE to have a meeting, I really prefer if people share a pre-read.
 
 I expect my team to minimise meetings too.
 
-Gosh I hate meetings, I would really prefer not to have any. The only meetings I really feel are doing a great job (in order of importance): our weekly 1:1, Monday planning, Friday celebration. Everything else needs a clear goal decision associated with it and definable value. If we can find a way to work Asynchronously and trust each other's writing we scale beyond our SpaceTime constraints. 
+Gosh I hate meetings, I would really prefer not to have any. Have I mentioned that I try to reduce cruft?
+
+There are meetings that I really feel are doing a great job (so in order of importance): our weekly 1:1, Monday planning, Friday celebration. Any other meeting  needs a clear goal/question/problem-to-solve associated with it and definable value. If we can find a way to work Asynchronously and trust each other's writing, we scale beyond our SpaceTime constraints. 
 
 **Some Final Thoughts**
 
-I love taking about topics that are outside of work -- both in my interests and yours. If it ever feels like we are talking too much shit or wasting time, let me know.
+I love taking about topics that are outside of work -- within my interests and yours. If it ever feels like we are talking too much shit or wasting time, let me know.
 
 I see things as systems. I reduce all complex things (including relationships with other teams, collaborating on OKRs, etc.) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help. I enjoy eliminating duplicate work.
 
@@ -87,6 +89,8 @@ It is going to take a Quarter or more to figure out **OLX**
 A huge part of being successful at this company lies in being truly curious... figure out who does similar things / works on similar topics than you and befriend them.
 
 Furthermore, I really believe this company rewards Entrepreneurial thinking. If you have an idea, and truly believe in it: find likeminded individuals, convince your manager, convince a colleague in another office, but be relentless in pursuing something if you truly believe in it.
+
+The day you viscerally realise that you are limited only by your own imagination and drive is the day you start loving OLX.
 
 ----
 
