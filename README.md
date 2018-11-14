@@ -54,6 +54,8 @@ Celebration
 
 In-between: constant brainstorming Asynchronously via Slack, Email etc.
 
+I created a separate document called `PRODUCT.md` that contains my deeper thoughts on Product Management and how I see my role as Product Manager, together with my Product Management Philosophy.
+
 **More About Meetings**
 
 My calendar is open and public. Often it will contain big blocks of time -- I might look busy, but in actual fact I am just preventing unnecessary meetings.
