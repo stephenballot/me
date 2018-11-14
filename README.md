@@ -1,4 +1,4 @@
-How to work better with Stephen.
+**How to work better with Stephen**
 
 Hi nice to see you reading this. The tl;dr of me is: I am all about culture, bringing the customer's voice into our Product discussions and maximising our team happiness.
 
