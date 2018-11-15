@@ -24,7 +24,7 @@ I take vacations. I really expect my team to do this too. Furthermore: holidays 
 
 **Heavier stuff**
 
-I believe in what Tony Hsieh (of Zappos fame) calls "Collisions". "Collisions" are unscientific and hard-to-prove, and they are not violent, but rather gentle, like particles under a microscope that are moving and suddenly meeting at a point in the space time continuum. You could call them "serendipitous meetings". I see my super-power at *OLX* to be the person that makes sure our company has as many "collisions" as possible.
+I believe in what Tony Hsieh (of Zappos fame) calls "Collisions". "Collisions" are unscientific and hard-to-prove, and they are not violent, but rather gentle, like particles under a microscope that are moving and suddenly meeting at a point in the space time continuum. You could call them "serendipitous meetings". I see my super-power at **OLX** to be the person that makes sure our company has as many "collisions" as possible.
 
 I believe in a People-first approach. 
 
@@ -36,7 +36,7 @@ It is important to me that people are treated fairly. I believe that most people
 
 I start with an assumption of positive intent for all involved. This has worked out well for me over my career.
 
-Sometimes I really feel the pressure I put on myself to deliver a great Product to our customers as fast as possible with maximum quality, and unfortunately the pressure will show on my face and body-language. However, it will mostly manifest in me slipping in some of my commitments to my team whilst I try to firefight with various stakeholders. I hope my team will call me out on this, I usually self correct within a week of such phases, and they maybe happen once or twice a year.
+Sometimes I really feel the pressure I put on myself to deliver a great Product to our customers as fast as possible with maximum quality, and unfortunately the pressure will show on my face and in my body-language. However, it will mostly manifest in me slipping in some of my commitments to my team whilst I try to firefight with various stakeholders. I hope my team will call me out on this, I usually self correct within a week of such phases, and they maybe happen once or twice a year.
 
 **Something on Feedback**
 
