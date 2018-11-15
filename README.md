@@ -3,7 +3,8 @@
 Hi nice to see you reading this. The TL;DR version: I am all about culture, bringing the customer's voice into our Product discussions and really caring about my and other teams's happiness.
 
 **My Ideal Week in Product**
-The ideal week for me gives me and my Product team a lot of time to think, write, analyse numbers and talk to customers or look at how customers are talking to us. I really like to keep our rituals to a minimal so an Ideal week in Product for me has the following components:
+
+The ideal week for me is where me and my Product team have a lot of time to think, write, analyse numbers and talk to customers or look at how customers are talking to us. I really like to keep our rituals to a minimal so an Ideal week in Product for me has the following components:
 
 * a Planning meeting
 
