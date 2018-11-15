@@ -72,7 +72,7 @@ Often times I would issue you tasks without knowing all the details you do -- ca
 
 I respond super well if you ask me directly for help, but I struggle with direct instructions (e.g. help me do X vs. Stephen, do X).
 
-I can be hyperbolic but it’s almost always because I am excited about the topic. I also enjoy swearing. Please tell me if you find it offensive.
+I can be hyperbolic but it’s almost always because I am excited about the topic. I also end up swearing a lot when excited. Please call me out on it. 
 
 I believe in the compounding awesomeness of continually fixing small things. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
