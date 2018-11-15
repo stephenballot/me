@@ -68,7 +68,7 @@ I enjoy talking about topics that are outside of work too -- within my interests
 
 I see things as systems. I reduce all complex things (including relationships with other teams, collaborating on OKRs, etc.) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help. I enjoy eliminating duplicate work.
 
-Often times I would issue you tasks without knowing all the details you do -- call me out on this if the details are unclear or if my grasp of the scope of the task is under-appreciated.
+Often times I would issue you tasks without knowing all the details you do -- call me out on this if the details are unclear or if I under-appreciate the scope of the task.
 
 I respond super well if you ask me directly for help, but I struggle with direct instructions (e.g. help me do X vs. Stephen, do X).
 
