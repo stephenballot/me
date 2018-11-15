@@ -94,4 +94,4 @@ The day you viscerally realise that you are limited only by your own imagination
 
 ----
 
-This document is a living breathing thing and likely incomplete. I update it frequently and would appreciate your feedback.
+This document is likely incomplete. I update it frequently and would appreciate your feedback.
