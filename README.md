@@ -64,7 +64,7 @@ There are meetings that I really feel are doing a great job (so in order of impo
 
 **Some Final Thoughts**
 
-I love talking about topics that are outside of work -- within my interests and yours. If it ever feels like we are talking too much shit or wasting time, let me know.
+I enjoy talking about topics that are outside of work too -- within my interests and yours. If it ever feels like we are talking too much shit or wasting time, let me know.
 
 I see things as systems. I reduce all complex things (including relationships with other teams, collaborating on OKRs, etc.) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help. I enjoy eliminating duplicate work.
 
