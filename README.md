@@ -20,6 +20,8 @@ You can Slack or Mail me anytime, I like responding, and almost always do. You'l
 
 If I am traveling, I will give my team notice of said travel in advance. We have a shared team calendar: use it to note your leave and travels too. I will reciprocate. I prefer not to have our standard schedule whilst travelling, but happy to make exceptions.
 
+If I am not explicit about a deadline, this means that you should propose something based on your priorities... your visbility on details will always trump mine.
+
 I take vacations. I really expect my team to do this too. Furthermore: holidays are meant to relax, so disable ALL notifications please. I value work/life balance.
 
 **Heavier stuff**
