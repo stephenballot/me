@@ -14,7 +14,7 @@ The ideal week for me is where me and my Product team have a lot of time to thin
 
 * A lot of time in-between to be curious (to think, write, analyse numbers and talk to customers or look at how customers are talking to us)
 
-**My Basic Preferences**
+**My Basic Preferences slash Management Style**
 
 You can Slack or Mail me anytime, I like responding, and almost always do. You'll see in this `README` a theme: I love working asynchronously, and enjoy reading my team's work/thoughts a lot.
 
