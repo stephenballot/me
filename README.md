@@ -86,7 +86,7 @@ I believe the way I behave influences the Culture of our company. I take this se
 
 **Some thoughts on OLX**
 
-It is going to take a Quarter or more to figure out **OLX**
+If you are new: it is going to take a Quarter or more to figure out **OLX**
 
 A huge part of being successful at this company lies in being truly curious... figure out who does similar things / works on similar topics than you and befriend them.
 
