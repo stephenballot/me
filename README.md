@@ -6,7 +6,7 @@ Hi nice to see you reading this. The TL;DR version: I am all about culture, brin
 
 The ideal week for me is where me and my Product team have a lot of time to think, write, analyse numbers and talk to customers or look at how customers are talking to us. All of my ranting about "too many meetings" in the rest of this document is inspired by this essay from Paul Graham: http://www.paulgraham.com/makersschedule.html. I want to be on the Maker's schedule. Modern Product Management is run on the Maker's schedule... not the manager's. 
 
-I really like to keep our rituals to a minimal so an Ideal week in Product for me has the following components:
+With this in mind, I really like to keep our recurring rituals to a minimum. I would say an ideal week in Product for me has only the following components:
 
 * a Planning meeting
 
