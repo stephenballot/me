@@ -8,11 +8,11 @@ The ideal week for me is where me and my Product team have a lot of time to thin
 
 With this in mind, I really like to keep our recurring rituals to a minimum. I would say an ideal week in Product for me has only the following components:
 
-* a Planning meeting
+* a Planning meeting (I love this method of working: http://eleganthack.com/monday-commitments-and-friday-wins/)
 
 * 1:1s with my team members
 
-* Celebrating what we delivered in the week
+* Celebrating what we delivered in the week (I love this method of working: http://eleganthack.com/monday-commitments-and-friday-wins/)
 
 * A lot of time in-between to be curious (to think, write, analyse numbers and talk to customers or look at how customers are talking to us)
 
